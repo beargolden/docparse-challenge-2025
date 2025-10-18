@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# User-defined
+.idea
+base_models
+datasets
+fine_tuned_Qwen2.5-VL-7B-Instruct
+transformers
+utils/.gradio
