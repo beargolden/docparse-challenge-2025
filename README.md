@@ -57,7 +57,7 @@ docparse-challenge-2025/
 
 ### 1. 编辑配置
 
-1. **关键字段修改**：
+**关键字段修改**：
 
 ```text
 | 字段                       | 说明                                  |
@@ -143,3 +143,20 @@ bash eval.sh
 ```
 
 推理完成后，确认OUTPUT_BASE_DIR中的predict.jsonl行数与测试集图像数量一致，之后提交至比赛平台即可查看分数。
+
+## 竞赛成绩
+
+2025学年开学后，由于日常教学科研事务比较忙，所以2025-09-15训练得到的最优模型取得如下成绩：
+
+| 榜单 | 成绩     |
+|----|--------|
+| A榜 | 0.8281 |
+| B榜 | 0.8372 |
+
+## 数据集与模型下载
+
+原始数据集：请访问竞赛官网下载
+
+部分修正后的数据集链接: https://pan.baidu.com/s/1vOodMhkZ6KkniFQqR4W4ng?pwd=avne 提取码: avne
+
+2025-09-15训练得到的最优模型链接: https://pan.baidu.com/s/1cSjZWAj-L0Q0TKZwmU3RfA?pwd=gja5 提取码: gja5
