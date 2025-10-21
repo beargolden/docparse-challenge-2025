@@ -1,12 +1,12 @@
 # docparse-challenge-2025
 
-金山办公2025算法挑战赛——多模态文档解析大赛
+金山办公2025算法挑战赛——多模态文档解析大赛 [参赛代码] ![visitors](https://visitor-badge.laobi.icu/badge?page_id=beargolden.docparse-challenge-2025)
 
 [![金山办公2025算法挑战赛——多模态文档解析大赛](./assets/docparse-challenge-2025-logo.png "docparse-challenge-2025-logo")](https://datastudio.wps.cn/matchcenter/competition/2/introduction)
 
 ## 项目简介
 
-`docparse-challenge-2025`是本人在金山办公2025算法挑战赛——多模态文档解析大赛中使用的代码。该代码基于竞赛主办方提供的基线代码，采用Qwen2.5‑VL‑7B模型实现了LoRA微调、权重合并与推理评测脚本。
+`docparse-challenge-2025`是CVPR@HBUT在金山办公2025算法挑战赛——多模态文档解析大赛中使用的代码。该代码基于竞赛主办方提供的基线代码，采用Qwen2.5‑VL‑7B模型实现了LoRA微调、权重合并与推理评测脚本。
 
 - **训练脚本**：`train.py`（LoRA微调）
 - **合并脚本**：`merge_lora.py`
@@ -146,7 +146,7 @@ bash eval.sh
 
 ## 竞赛成绩
 
-2025学年开学后，由于日常教学科研事务比较忙，所以2025-09-15训练得到的最优模型取得如下成绩：
+2025-09-15训练得到的最优模型取得如下成绩：
 
 | 榜单 | 成绩     |
 |----|--------|
