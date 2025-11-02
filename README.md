@@ -146,6 +146,8 @@ bash eval.sh
 
 ## 竞赛成绩
 
+![多模态文本智能解析大赛成绩结果公示](./assets/announcement_of_results_for_multimodal_text_intelligent_parsing_competition.png "多模态文本智能解析大赛成绩结果公示")
+
 目前，CVPR@HBUT团队第一次玩转大模型微调，2025-09-15训练得到的最优模型在A榜取得0.8281（位列第7），终极B榜取得0.8372（位列14）[加油]
 
 | 榜单 | 成绩     |
